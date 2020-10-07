@@ -1,0 +1,14 @@
+{
+    "jobid": "e65ee097-268f-4173-a9b6-dd41532f8b42",
+    "timestarted": 1602045360009,
+    "jobcompleted": true,
+    "timingPhases": {
+        "wait": 1.0008990000351332,
+        "dns": 168.25970100000268,
+        "tcp": 241.61099999997532,
+        "firstByte": 599.586100000015,
+        "download": 0.9119000000064261,
+        "total": 1011.3696000000346
+    },
+    "jobtype": "Hello (Is OTDS online)"
+}

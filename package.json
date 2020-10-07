@@ -1,0 +1,12 @@
+{
+  "name": "@driverlane/testdatagenerator",
+  "version": "1.0.0",
+  "description": "Small Project to generate test data for Content Server Performance Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["testdatagenerator", "driverlane", "opentext"],
+  "author": "matthew.barben@driverlane.com.au",
+  "license": "MIT"
+}
